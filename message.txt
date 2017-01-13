@@ -1,2 +1,6 @@
 The number of planets in the solar system is
+<<<<<<< HEAD
 eight.
+=======
+nine.
+>>>>>>> origin/master
